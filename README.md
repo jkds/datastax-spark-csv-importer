@@ -60,7 +60,7 @@ The default parameters configured within the app are as follows:
 You may override these on the command line as indicated above.
 
 ## Results
-Once the program has completed successfully it you should see the following when performing a select:
+Once the program has completed successfully you should see the following when performing a select:
 
     Connected to SparkCluster at localhost:9160.
     [cqlsh 4.1.1 | Cassandra 2.0.11.83 | DSE 4.6.0 | CQL spec 3.1.1 | Thrift protocol 19.39.0]
