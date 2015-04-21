@@ -97,3 +97,7 @@ _Windows_ (untested)
     bin/spark-csv-cassandra-import.bat {cmd-line-args}
 
 Again if you do not specify the name of the CSV file you wish to import then you'll be prompted to enter it.
+
+## Example Template
+
+Look at `src/main/scala/com/datastax/demo/mapper/ProductCSVMapAndSave.scala` as a starting point to implement your own CSV mapping class
